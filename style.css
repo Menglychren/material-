@@ -718,7 +718,7 @@ span{
     }
 }
 @media (max-width: 444px){
-    navbar-brand{
+    .navbar-brand{
         font-weight: 500;
       color: #009970;
       font-size: 18px;
